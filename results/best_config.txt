@@ -1,0 +1,4 @@
+Best config for [arithmetic]:
+  population_size=40  mutation_rate=0.05  crossover_rate=0.85  alpha=0.5  coverage_mean=0.788889  bugs_mean=5.66667  Welch t vs baseline: p=0.16697  effect_size=2.64575
+Best config for [arithmetic]:
+  population_size=80  mutation_rate=0.12  crossover_rate=0.85  alpha=0.5  coverage_mean=0.885  bugs_mean=9.3  Welch t vs baseline: p=9.66101e-08  effect_size=4
